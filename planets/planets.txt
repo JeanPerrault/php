@@ -1,0 +1,56 @@
+Name : Mercure
+Picture : mercury.jpg
+Type : Tellurique
+Goldilocks : non
+Distance : 57900000
+Satelites : -
+
+Name : Vénus
+Picture : venus.jpg
+Type : Tellurique
+Goldilocks : non
+Distance : 108000000
+Satelites : -
+
+Name : Terre
+Picture : earth.jpg
+Type : Tellurique
+Goldilocks : oui
+Distance : 149600000
+Satelites : Lune
+
+Name : Mars
+Picture : mars.jpg
+Type : Tellurique
+Goldilocks : oui
+Distance : 228000000
+Satelites : Phobos, Deimos
+
+Name : Jupiter
+Picture : jupiter.jpg
+Type : Géante Gazeuse
+Goldilocks : non
+Distance : 778000000
+Satelites : Europe, Ganymède, Io, Calisto, Amalthée, Adrastée
+
+Name : Saturne
+Picture : saturn.jpg
+Type : Géante Gazeuse
+Goldilocks : non
+Distance : 1430000000
+Satelites : Encelade, Titan, Dioné, Mimas, Japet, Téthys, Rhéa, Hypérion, Phoebé, Epiméthée, Pan, Télésto, Pollux, Janus, Prométhée
+
+Name : Uranus
+Picture : uranus.jpg
+Type : Tellurique
+Goldilocks : non
+Distance : 2870000000
+Satelites : -
+
+Name : Neptune
+Picture : neptune.jpg
+Type : Tellurique
+Goldilocks : non
+Distance : 4500000000
+Satelites : -
+
